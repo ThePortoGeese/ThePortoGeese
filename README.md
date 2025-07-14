@@ -1,6 +1,10 @@
 ## "Now I have become the exception, destroyer of programs" - Githeimer
 
+Am I writing this instead of programming? Yes. Am I procrastinating? For sure! But you know what? History's biggest persons procastinated too. 
 
+Abraham Lincoln once famously said: "Give me six hours to chop down a tree and I will spend the first four lying on the sofa." Or something like that. I might have missed that history class about American History. 
+
+Currently learning Dart, flutter and Unity while doing mobile apps for ISPGAYA. 
 
 <!--
 **ThePortoGeese/ThePortoGeese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
