@@ -15,6 +15,7 @@ Sempre em qualquer coisa vã."
 ## Who am I? Or What am I?
 
 I'm just a chill guy who likes programming.
+
 ![chill-guy-icegif-13](https://github.com/user-attachments/assets/46abb445-c542-4893-a7d3-c3cd07d971bb)
 
 I might spend too much time gaming but, hey, it's for SUPER EARTH and DEMOCRACY. How can I not?
