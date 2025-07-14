@@ -32,7 +32,8 @@ I did some applications in C++ and C# for my school. Please do not judge me for 
 Besides everything, I do love programming. It's my passion. My craft. I might procrastinate but, those moments where I do actual work? They are the greatest moments ever.
 
 ## Ok, going back to work now, have fun exploring!
-![walter-white-meth](https://github.com/user-attachments/assets/dfcea993-529d-4fe1-96ad-0a86350c3724)
+
+![walter-white-meth (1)](https://github.com/user-attachments/assets/ebb0bd60-1ba1-42e8-89e5-fb5b770877b9)
 
 <!--
 **ThePortoGeese/ThePortoGeese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
