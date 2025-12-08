@@ -20,11 +20,13 @@ History and the arts are interesting subjects that I like to explore in my own p
 
 ## What about actual work?
 
-Currently working on my own game. If you see a series of private commits that's probably what I was working on. 
+I WAS PART OF THE DEV TEAM OF RETROLVER, THE GREATEST GAME IN EXISTANCE: https://theportogeese.itch.io/retrolver
 
-Currently using Dart and flutter to create mobile apps for ISPGAYA. 
+Currently working on my 2 games and a small messaging app. If you see a series of private commits that's probably what I was working on. 
 
+I used Dart and flutter to create mobile apps for ISPGAYA. 
 I did some applications in C++ and C# for my school. Please do not judge me for those :P
+
 
 Besides everything, I do love programming. It's my passion. My craft. I might procrastinate but, those moments where I do actual work? They are the greatest moments ever.
 
