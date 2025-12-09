@@ -30,6 +30,13 @@ I did some applications in C++ and C# for my school. Please do not judge me for 
 
 Besides everything, I do love programming. It's my passion. My craft. I might procrastinate but, those moments where I do actual work? They are the greatest moments ever.
 
+## GAMEJAMS!!
+OMFG I love gamejams!!!!!! Im part of CYBER PANELAS, a team of my 4 awesome friends! 
+
+# Participation in the following gamejams
+
+[1st Place] [2ª edição WinterJam IPMaia](https://ipmaia-winterjam.pt/archive/2) - [Retrolver](https://theportogeese.itch.io/retrolver)
+
 ## Ok, going back to work now, have fun exploring!
 
 ![walter-white-meth (1)](https://github.com/user-attachments/assets/ebb0bd60-1ba1-42e8-89e5-fb5b770877b9)
