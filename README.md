@@ -1,4 +1,4 @@
-## "Now I have become the exception, destroyer of programs" - Githeimer
+# "Now I have become the exception, destroyer of programs" - Githeimer
 
 Am I writing this instead of programming? Yes. Am I procrastinating? For sure! But you know what? History's biggest persons procastinated too. 
 
@@ -33,9 +33,9 @@ Besides everything, I do love programming. It's my passion. My craft. I might pr
 ## GAMEJAMS!!
 OMFG I love gamejams!!!!!! Im part of CYBER PANELAS, a team of my 4 awesome friends! 
 
-# Participation in the following gamejams
+### Participation in the following gamejams:
 
-[1st Place] [2ª edição WinterJam IPMaia](https://ipmaia-winterjam.pt/archive/2) - [Retrolver](https://theportogeese.itch.io/retrolver)
+- [1st Place] [2ª edição WinterJam IPMaia](https://ipmaia-winterjam.pt/archive/2) - [Retrolver](https://theportogeese.itch.io/retrolver)
 
 ## Ok, going back to work now, have fun exploring!
 
