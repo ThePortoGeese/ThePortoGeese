@@ -12,7 +12,7 @@ Sempre em qualquer coisa vã."
 
 ## Who am I? Or What am I?
 
-I'm just a chill guy who likes programming.
+I'm just a chill girl who likes programming.
 
 I might spend too much time gaming but, hey, it's for SUPER EARTH and DEMOCRACY. How can I not?
 
