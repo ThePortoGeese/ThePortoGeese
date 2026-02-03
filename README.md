@@ -27,8 +27,10 @@ Currently working on my 2 games and a small messaging app. If you see a series o
 I used Dart and flutter to create mobile apps for ISPGAYA. 
 I did some applications in C++ and C# for my school. Please do not judge me for those :P
 
+Besides everything, I do love programming and art. It's my passion. My craft. I might procrastinate but, those moments where I do actual work? They are the greatest moments ever.
 
-Besides everything, I do love programming. It's my passion. My craft. I might procrastinate but, those moments where I do actual work? They are the greatest moments ever.
+## WHERE U MIGHT FIND ME
+- [Itch.io](https://theportogeese.itch.io/)
 
 ## GAMEJAMS!!
 OMFG I love gamejams!!!!!! Im part of CYBER PANELAS, a team of my 4 awesome friends! 
