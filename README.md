@@ -20,9 +20,9 @@ History and the arts are interesting subjects that I like to explore in my own p
 
 ## What about actual work?
 
-I WAS PART OF THE DEV TEAM OF RETROLVER, THE GREATEST GAME IN EXISTANCE: https://theportogeese.itch.io/retrolver
+I already worked on 3 previous games, mostly for gamejams. U can check them out here: https://theportogeese.itch.io/
 
-Currently working on my 2 games and a small messaging app. If you see a series of private commits that's probably what I was working on. 
+Currently working on a WW1 2D stealth game. If you see a series of private commits that's probably what I was working on. 
 
 I used Dart and flutter to create mobile apps for ISPGAYA. 
 I did some applications in C++ and C# for my school. Please do not judge me for those :P
@@ -38,7 +38,7 @@ OMFG I love gamejams!!!!!! Im part of CYBER PANELAS, a team of my 4 awesome frie
 ### Participation in the following gamejams:
 
 - [1st Place] [2ª edição WinterJam IPMaia](https://ipmaia-winterjam.pt/archive/2) - [Retrolver](https://theportogeese.itch.io/retrolver)
-
+- [Global Game Jam 2026](https://globalgamejam.org/group/31326/games) - [Beneath The Mask](https://globalgamejam.org/games/2026/dropping-mask-7)
 ## Ok, going back to work now, have fun exploring!
 
 ![walter-white-meth (1)](https://github.com/user-attachments/assets/ebb0bd60-1ba1-42e8-89e5-fb5b770877b9)
